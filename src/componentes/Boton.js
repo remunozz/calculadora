@@ -17,5 +17,3 @@ function Boton(props) {
 }
 
 export default Boton;
-
-//onClick = {props.children === '='? props.manejarClick : () => props.manejarClick(props.children)} >
