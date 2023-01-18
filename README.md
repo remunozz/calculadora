@@ -2,7 +2,7 @@
 
 Esta es una aplicación desarrollada con React, una calculadora interactiva que realiza las cuatro operaciones aritméticas básicas (suma, resta, multiplicación y división).
 
-Esta aplicación fue creada por Estefania Cassingena Navone para el curso Aprende React Desde Cero publicado en el canal de YouTube freeCodeCamp Español. Su estructura inicial fue creada con el comando npx create-react-app.
+Esta aplicación fue creada por Raúl Muñoz siguiendo la asesoria de Estefania Cassingena Navone para el curso Aprende React Desde Cero publicado en el canal de YouTube freeCodeCamp Español. Su estructura inicial fue creada con el comando npx create-react-app.
 
 # Ejecutar la Aplicación
 
